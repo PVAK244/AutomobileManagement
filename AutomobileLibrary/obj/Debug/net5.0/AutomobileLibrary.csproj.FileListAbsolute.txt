@@ -1,0 +1,12 @@
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+D:\CODE\C#\Slot282930\AutomobileManagement\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
